@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>gajenthiran - Portfolio</title>
+    <title>Gajendiran R- Portfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -47,7 +47,7 @@
 <body>
     <header>
         <p style="color:#333;">Your Web Page</p>
-        <h1 style="color:white;">gajenthiran</h1>
+        <h1 style="color:white;">Gajendiran.R</h1>
         <p style="color:white;">A Computer Science Student</p>
     </header>
     <nav>
@@ -94,7 +94,7 @@
     </section>
 
   <footer>
-        &copy; 2025 gajenthiran
+        &copy; 2025 Gajendiran R
     </footer>
 </body>
 </html>
